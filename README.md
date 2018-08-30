@@ -1,4 +1,4 @@
-## shitmap.io
+## shitmap.moe
 osu! collection manager
 
 ### Planned Features:
